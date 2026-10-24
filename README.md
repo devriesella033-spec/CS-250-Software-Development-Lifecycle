@@ -12,5 +12,5 @@ When I approach developing a program, I like the idea of breaking the work into 
 
 ### What does it mean to be a good team member in software development?
 
-For me, being a good team member in software development means communicating, being dependable, and being willing to work with others when problems come up. Everyone on a development team has a different responsibility, but those roles still depend on each other. I think that a good team member should be open to feedback, ask questions when something is unclear, and make sure other team members have the information they need. This course has really showed me that teamwork is really important in Agile because the whole team has to work toward the same goal for the project to be successful.
+For me, being a good team member in software development means communicating, being dependable, and being willing to work with others when problems come up. Everyone on a development team has a different responsibility, but those roles are still dependent on each other. I think that a good team member should be open to feedback, ask questions when something is unclear, and make sure other team members have the information they need. This course has really showed me that teamwork is really important in Agile because the whole team has to work toward the same goal for the project to be successful.
 
